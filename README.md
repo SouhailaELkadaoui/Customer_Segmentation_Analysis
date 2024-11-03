@@ -3,7 +3,7 @@ Project Overview
 This project focuses on customer segmentation and analysis using Excel and Power BI. The primary objective was to categorize customers based on their buying behavior and visualize these insights for better decision-making.
 
 ## Methodology
-1. Customer Segmentation
+### Customer Segmentation
 Using Excel functions, I segmented customers based on the following key metrics:
 
 Recency: How recently a customer made a purchase
@@ -17,7 +17,7 @@ Monetary Value: Total spending of each customer
 
 Spending Score: Customer's tendency to spend based on their purchasing behavior 
 
-2. Data Visualization
+### Data Visualization
 After segmentation, I imported the data into Power BI to create visualizations, which allowed for deeper analysis and insights. The visualizations included:
 
 
